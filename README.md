@@ -1,7 +1,6 @@
 
 # IGR: Instance-aware Global Re-detection for Precise and Efficient Long-term Visual Tracking
 Official implementation of IGR.
-The code will be provided in the near future.
 
 Performence:
 | Metohd  | AUC(%) on LaSOT | Speed(FPS) |
