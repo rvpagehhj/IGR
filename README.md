@@ -11,4 +11,4 @@ Official implementation of IGR.
 | IGR-EVPTrack  | 70.8  | 58 |
 
 ## Acknowledgments
-* Thanks for the [OSTrack](https://github.com/botaoye/OSTrack) and [GlobalTrack](https://github.com/huanglianghua/GlobalTrack) library, which helps us to quickly implement our ideas.
+* Thanks for the [STARK](https://github.com/researchmm/Stark) and [GlobalTrack](https://github.com/huanglianghua/GlobalTrack) library, which helps us to quickly implement our ideas.
